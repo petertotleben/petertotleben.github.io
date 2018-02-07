@@ -1,0 +1,22 @@
+body {
+  font-family: Merriweather, serif;
+  font-size: 1.1rem;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: Oswald, sans-serif;
+}
+
+h1, h2 {
+  text-align: center;
+}
+
+p, ul {
+	padding-top: 0.75rem;
+	padding-bottom: 0.75rem;
+}
+
+.row {
+	padding-top: 0.75rem;
+	padding-bottom: 0.75rem;
+}
